@@ -25,18 +25,18 @@ Command Options:
         **Spotify:**
             search: *node liri.js spotify-this-song despacito*
             screen-shot of code: 
-            ![](images/ex.2_spotify_despacito.jpg)
+            ![alt text](images/ex.2_spotify_despacito.jpg)
         **Bands in Town:**
             search: *node liri.js concert-this pink*
             screen-shot of code: 
-            ![](images/ex.1_concert_pink.jpg)
+            ![alt text](images/ex.1_concert_pink.jpg)
         **OMDB:**
             search: *node liri.js movie-this Up*
             screen-shot of code: 
-            ![](images/ex.3_movie_up.jpg)
+            ![alt text](images/ex.3_movie_up.jpg)
         **Text File Import Option:**
         search: *node do-what-it-says *
         screen-shot of code: 
-        ![](images/ex.4_dowhatitsays.jpg)
+        ![alt text](images/ex.4_dowhatitsays.jpg)
 
 
