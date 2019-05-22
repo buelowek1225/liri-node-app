@@ -24,15 +24,19 @@ Command Options:
     **Examples of User Flow Path:**
         **Spotify:**
             search: *node liri.js spotify-this-song despacito*
-            screen-shot of code: ![](images/ex.2_spotify_despacito.jpg)
+            screen-shot of code: 
+            ![Screenshot of spotify song search.](images/ex.2_spotify_despacito.JPG)
         **Bands in Town:**
             search: *node liri.js concert-this pink*
-            screen-shot of code: ![](images/ex.1_concert_pink.jpg)
+            screen-shot of code: 
+            ![Screenshot of Bands in Town search.](images/ex.1_concert_pink.JPG)
         **OMDB:**
             search: *node liri.js movie-this Up*
-            screen-shot of code: ![](images/ex.3_movie_up.jpg)
+            screen-shot of code: 
+            ![Screenshot of OMDB search.](images/ex.3_movie_up.JPG)
         **Text File Import Option:**
         search: *node do-what-it-says *
-        screen-shot of code: ![](images/ex.4_dowhatitsays.jpg)
+        screen-shot of code: 
+        ![Screenshot showing how to searching APIs with a text file.](images/ex.4_dowhatitsays.JPG)
 
 

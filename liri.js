@@ -100,8 +100,7 @@ function commandSearch(action, searchParam) {
     } else if (action === "spotify-this-song") {
         var spotifySong = searchParam;
         if (!spotifySong) {
-            spotifySong = "The Sign";
-            // spotifyArtist = "Ace of Base";
+            spotifySong = "The Sign by Ace of Base";
         }
         spotifyThis(spotifySong);
     } else if (action === "concert-this") {
